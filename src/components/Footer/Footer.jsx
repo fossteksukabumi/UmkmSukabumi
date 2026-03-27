@@ -7,7 +7,7 @@ const Footer = () => {
       <div style={footerStyle.container}>
         <div style={footerStyle.grid}>
           <div style={footerStyle.column}>
-            <h3 style={footerStyle.title}>umkmsukabumi.com</h3>
+            <h3 style={footerStyle.title}>umkmsukabumi.vercel.app/</h3>
             <p style={{ opacity: 0.8, fontSize: "14px", lineHeight: "1.6" }}>
               Jasa pembuatan website profesional untuk UMKM di Sukabumi dan sekitarnya. 
               Membantu bisnis Anda go digital dengan biaya terjangkau.
